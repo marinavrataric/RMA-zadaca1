@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">zadaca01</string>
+    <string name="person1Description">James Gosling (19.05.1995.)  is a Canadian computer scientist, best known as the founder and lead designer behind the Java programming language.</string>
+    <string name="person2Description">Steven Paul Jobs (24.02.1955. - 05.08.2011.) was an American business magnate and investor. He was the chairman, (CEO), and co-founder of Apple Inc.</string>
+    <string name="person3Description">Andrew E. Rubin (1963) is an American computer programmer, engineer, entrepreneur, and venture capitalist. He is the co-founder of Android Inc.</string>
+</resources>
